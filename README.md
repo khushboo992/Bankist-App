@@ -1,13 +1,11 @@
 # 🏦 Bankist App
 
-Bankist is a modern banking web application built using vanilla JavaScript that simulates real-world banking operations such as user authentication, money transfers, loan requests, and transaction tracking. The project focuses on clean business logic, state management, and dynamic UI updates.
+Bankist is a frontend banking dashboard built with JavaScript that simulates core banking operations such as user login, transaction history display, balance and summary calculations, money transfers, loan requests, account closure, and transaction sorting. The application emphasizes clean DOM manipulation, effective state management using JavaScript objects, and real-world business logic implemented through modern array methods.
 
----
 
 ## 📸 Screenshots
 <img width="1893" height="867" alt="Screenshot 2025-12-15 193348" src="https://github.com/user-attachments/assets/57dffcd4-a7c0-48c5-a660-96f3f8675d79" />
 
----
 
 ## 🚀 Features
 
@@ -20,7 +18,6 @@ Bankist is a modern banking web application built using vanilla JavaScript that 
 - Transaction sorting (ascending / original order)
 - Real-time UI updates using DOM manipulation
 
----
 
 ## 🛠️ Tech Stack
 
@@ -28,7 +25,6 @@ Bankist is a modern banking web application built using vanilla JavaScript that 
 - **HTML5**
 - **CSS3**
 
----
 
 ## 🧠 Concepts & Skills Demonstrated
 
@@ -40,7 +36,6 @@ Bankist is a modern banking web application built using vanilla JavaScript that 
 - Business logic implementation (banking rules)
 - Clean, readable, and modular code structure
 
----
 
 ## 🔐 Demo Login Credentials
 
